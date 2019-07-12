@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:2:1-51:12
+MERGED from [com.android.support:design:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/a6c6c74baa8ea335cb52bfa17c0110c2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/84a09ca746cb2fa2586f2c62f35167e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/0bf04991cc3123a9744f00e635adaeaf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/debi/.gradle/caches/transforms-2/files-2.1/dedd99ae29cc7fe3681edaf9e0c9821c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/2df2c275f2b8656aa16f7ac1157a7d35/AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:1.3.0] /home/debi/.gradle/caches/transforms-2/files-2.1/7cbd22d99655cdd948b777803e6ef9bb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/3ee3c65c003041eec636ab560fc19af0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/ad8b8d4bd82e838f9e2f6f96110e694f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/1fe81b76074b60fb24890bd85ace40dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/5cd3a3e10f4ca713353a82c71ccea7fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/59dd2d5e37241ccba260aa89d262260e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/51a202977736c8ff9a4ecb972d027a63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/12f261d951488d1056b6636385384b16/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/cf1ed5cabb101a319b269aca5d1d5c24/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/2fb8488c2d077e976df8c114eae54c68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/510a51186ebf989eddb8f7921c2cbc52/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/7f7d811f68d04c5349e3254bb9530f71/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/9b377936f3a5118483cf228fe1c5bd7b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/1a28dc322679c803f8b7397104271418/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/6d1d7fc50099afe3694d069e2aaf1833/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/1029fb5e8b5a3c99facd6aa6ea91b4fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/ea1b718c4594a411f4a42d9572cac663/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/3cfa22cd219c57bc5295277ad266731a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/847eb50aa7cbff2c8ad2c184164a5d07/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/03033fdd12aed07dae730f1b9c0ddb85/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/debi/.gradle/caches/transforms-2/files-2.1/2725b577ded3162bf2be64dcc4e20988/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/4cea1abe94fec65cc4ef7cb494b39074/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/51048777d3bb1841746cd24c6740ddf2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/4e6dac6c0f3a3ab6adc1df600d95608f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/debi/.gradle/caches/transforms-2/files-2.1/4e8489b7c7d4928f445e93a1ceea0d1f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/b373dff18668c89c86b81f38f9709c03/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/debi/.gradle/caches/transforms-2/files-2.1/4933b9344a81b50448aa945ed8eb7901/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/debi/.gradle/caches/transforms-2/files-2.1/f9d25675195aa968239815f95b8bc720/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/debi/.gradle/caches/transforms-2/files-2.1/fe07a777f4b97aa506dc1034052954dd/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:2:1-51:12
+INJECTED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml
+		INJECTED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:2:1-51:12
+		INJECTED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:2:1-51:12
+		INJECTED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:5:5-72
+	android:name
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:5:22-69
+application
+ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:7:5-49:19
+MERGED from [com.android.support:design:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/a6c6c74baa8ea335cb52bfa17c0110c2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/a6c6c74baa8ea335cb52bfa17c0110c2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/debi/.gradle/caches/transforms-2/files-2.1/dedd99ae29cc7fe3681edaf9e0c9821c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/debi/.gradle/caches/transforms-2/files-2.1/dedd99ae29cc7fe3681edaf9e0c9821c/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:1.3.0] /home/debi/.gradle/caches/transforms-2/files-2.1/7cbd22d99655cdd948b777803e6ef9bb/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:1.3.0] /home/debi/.gradle/caches/transforms-2/files-2.1/7cbd22d99655cdd948b777803e6ef9bb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/3cfa22cd219c57bc5295277ad266731a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/3cfa22cd219c57bc5295277ad266731a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/847eb50aa7cbff2c8ad2c184164a5d07/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/847eb50aa7cbff2c8ad2c184164a5d07/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/3cfa22cd219c57bc5295277ad266731a/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.tbs.cosaspacopiar.miproducto
+ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:14:9-71
+	android:name
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:14:19-59
+activity#com.example.tbs.cosaspacopiar.perfildeverdad$poiuytr
+ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:15:9-18:59
+	android:label
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:17:13-59
+	android:theme
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:16:13-65
+activity#com.example.tbs.cosaspacopiar.perfildeverdad
+ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:19:9-22:59
+	android:label
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:21:13-66
+	android:theme
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:20:13-57
+activity#com.example.tbs.chatprincipal
+ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:23:9-51
+	android:name
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:23:19-48
+activity#com.example.tbs.Chats
+ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:24:9-43
+	android:name
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:24:19-40
+activity#com.example.tbs.perfilvendedor
+ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:25:9-52
+	android:name
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:25:19-49
+activity#com.example.tbs.realizarcita
+ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:26:9-29:59
+	android:label
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:28:13-64
+	android:theme
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:27:13-41
+activity#com.example.tbs.descripcion_articulo
+ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:30:9-58
+	android:name
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:30:19-55
+activity#com.example.tbs.miperfil
+ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:31:9-46
+	android:name
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:31:19-43
+activity#com.example.tbs.publicar_anuncio
+ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:32:9-54
+	android:name
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:32:19-51
+activity#com.example.tbs.subir_foto
+ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:33:9-48
+	android:name
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:33:19-45
+activity#com.example.tbs.pagina_principal
+ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:34:9-37:59
+	android:label
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:36:13-68
+	android:theme
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:35:13-45
+activity#com.example.tbs.crear_cuenta
+ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:38:9-41:47
+	android:label
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:40:13-41
+	android:theme
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:39:13-41
+activity#com.example.tbs.MainActivity
+ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:42:9-48:20
+	android:name
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:42:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml:46:27-74
+uses-sdk
+INJECTED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml
+INJECTED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/a6c6c74baa8ea335cb52bfa17c0110c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/a6c6c74baa8ea335cb52bfa17c0110c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/84a09ca746cb2fa2586f2c62f35167e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/84a09ca746cb2fa2586f2c62f35167e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/0bf04991cc3123a9744f00e635adaeaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/0bf04991cc3123a9744f00e635adaeaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/debi/.gradle/caches/transforms-2/files-2.1/dedd99ae29cc7fe3681edaf9e0c9821c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/debi/.gradle/caches/transforms-2/files-2.1/dedd99ae29cc7fe3681edaf9e0c9821c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/2df2c275f2b8656aa16f7ac1157a7d35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/2df2c275f2b8656aa16f7ac1157a7d35/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:1.3.0] /home/debi/.gradle/caches/transforms-2/files-2.1/7cbd22d99655cdd948b777803e6ef9bb/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:1.3.0] /home/debi/.gradle/caches/transforms-2/files-2.1/7cbd22d99655cdd948b777803e6ef9bb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/3ee3c65c003041eec636ab560fc19af0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/3ee3c65c003041eec636ab560fc19af0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/ad8b8d4bd82e838f9e2f6f96110e694f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/ad8b8d4bd82e838f9e2f6f96110e694f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/1fe81b76074b60fb24890bd85ace40dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/1fe81b76074b60fb24890bd85ace40dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/5cd3a3e10f4ca713353a82c71ccea7fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/5cd3a3e10f4ca713353a82c71ccea7fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/59dd2d5e37241ccba260aa89d262260e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/59dd2d5e37241ccba260aa89d262260e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/51a202977736c8ff9a4ecb972d027a63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/51a202977736c8ff9a4ecb972d027a63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/12f261d951488d1056b6636385384b16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/12f261d951488d1056b6636385384b16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/cf1ed5cabb101a319b269aca5d1d5c24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/cf1ed5cabb101a319b269aca5d1d5c24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/2fb8488c2d077e976df8c114eae54c68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/2fb8488c2d077e976df8c114eae54c68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/510a51186ebf989eddb8f7921c2cbc52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/510a51186ebf989eddb8f7921c2cbc52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/7f7d811f68d04c5349e3254bb9530f71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/7f7d811f68d04c5349e3254bb9530f71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/9b377936f3a5118483cf228fe1c5bd7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/9b377936f3a5118483cf228fe1c5bd7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/1a28dc322679c803f8b7397104271418/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/1a28dc322679c803f8b7397104271418/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/6d1d7fc50099afe3694d069e2aaf1833/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/6d1d7fc50099afe3694d069e2aaf1833/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/1029fb5e8b5a3c99facd6aa6ea91b4fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/1029fb5e8b5a3c99facd6aa6ea91b4fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/ea1b718c4594a411f4a42d9572cac663/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/ea1b718c4594a411f4a42d9572cac663/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/3cfa22cd219c57bc5295277ad266731a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/3cfa22cd219c57bc5295277ad266731a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/847eb50aa7cbff2c8ad2c184164a5d07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/847eb50aa7cbff2c8ad2c184164a5d07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/03033fdd12aed07dae730f1b9c0ddb85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/03033fdd12aed07dae730f1b9c0ddb85/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/debi/.gradle/caches/transforms-2/files-2.1/2725b577ded3162bf2be64dcc4e20988/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/debi/.gradle/caches/transforms-2/files-2.1/2725b577ded3162bf2be64dcc4e20988/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/4cea1abe94fec65cc4ef7cb494b39074/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/4cea1abe94fec65cc4ef7cb494b39074/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/51048777d3bb1841746cd24c6740ddf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/51048777d3bb1841746cd24c6740ddf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/4e6dac6c0f3a3ab6adc1df600d95608f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/4e6dac6c0f3a3ab6adc1df600d95608f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/debi/.gradle/caches/transforms-2/files-2.1/4e8489b7c7d4928f445e93a1ceea0d1f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/debi/.gradle/caches/transforms-2/files-2.1/4e8489b7c7d4928f445e93a1ceea0d1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/b373dff18668c89c86b81f38f9709c03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/debi/.gradle/caches/transforms-2/files-2.1/b373dff18668c89c86b81f38f9709c03/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/debi/.gradle/caches/transforms-2/files-2.1/4933b9344a81b50448aa945ed8eb7901/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/debi/.gradle/caches/transforms-2/files-2.1/4933b9344a81b50448aa945ed8eb7901/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/debi/.gradle/caches/transforms-2/files-2.1/f9d25675195aa968239815f95b8bc720/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/debi/.gradle/caches/transforms-2/files-2.1/f9d25675195aa968239815f95b8bc720/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/debi/.gradle/caches/transforms-2/files-2.1/fe07a777f4b97aa506dc1034052954dd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/debi/.gradle/caches/transforms-2/files-2.1/fe07a777f4b97aa506dc1034052954dd/AndroidManifest.xml:20:5-44
+INJECTED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml
+INJECTED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml
+		INJECTED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml
+		ADDED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml
+		INJECTED from /home/debi/Escritorio/Carpeta sin título/PROYECTOTBS/androidTBS/app/src/main/AndroidManifest.xml
